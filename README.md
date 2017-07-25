@@ -1,2 +1,2 @@
-# lazy
-go写的web框架，适用于API接口开发
+LAZY
+慵懒的goweb框架
